@@ -20,6 +20,7 @@ Follow us to stay updated on the latest developments. Let's build something grea
 
 - **Forum**: [discourse.openiap.io](https://discourse.openiap.io)
 - **Website**: [openiap.io](https://openiap.io)
+- **Video**: [youtube.com](https://www.youtube.com/results?search_query=openrpa)
 - **Linkedin**: [www.linkedin.com/in/skadefro](https://www.linkedin.com/in/skadefro/)
 - **Fediverse**: [social.openiap.io](https://social.openiap.io/)
 
